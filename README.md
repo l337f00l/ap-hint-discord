@@ -212,7 +212,7 @@ No. The bot works without registration — hints are just posted as public threa
 A public thread is visible to everyone who can see the hints channel. A private thread is only visible to the players involved in that hint (and server admins). Private threads are created automatically when both the finder and the receiver have registered.
 
 **I registered but I'm not getting pinged. What's wrong?**
-Make sure the slot name you registered matches exactly what's shown on the archipelago.gg room page. It's case-insensitive but spelling must be exact. You can re-register at any time to correct it.
+Make sure the slot name you registered matches exactly what's shown on the archipelago.gg room page. It's case-sensitive and spelling must be exact. You can re-register at any time to correct it.
 
 **Only one of us is registered — will we get a private thread?**
 No. Private threads are only created when both players in a hint are registered. If only one player is registered, you'll get a public thread and the registered player will be pinged. They can then manually tag the unregistered player in the thread.
