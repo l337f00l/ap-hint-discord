@@ -79,6 +79,8 @@ The admin types:
 
 Once running, the bot will automatically discover all slots in the room and start listening for hints. You'll know it's working when the first hint gets posted as a thread in the hints channel.
 
+> **📢 Note for players and the host:** When the bot first starts up, you may see a burst of join messages in your Archipelago text client — something like `AP Hint Bot (Team #1) viewing Game has joined` appearing for every slot in the room. This is completely normal and only happens once when the bot connects. It needs to join as each slot briefly so it knows which slots exist and can watch for hints on all of them. After the initial startup this stops and the bot runs silently in the background for the rest of the multiworld.
+
 ---
 
 ## 4. Registering Your Slot Name (Everyone)
